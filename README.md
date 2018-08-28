@@ -1,4 +1,4 @@
-# PowerShell-SvnFunctions
+# SubversionTools
 
 This project is a PowerShell module to use Subversion functions easely.
 
